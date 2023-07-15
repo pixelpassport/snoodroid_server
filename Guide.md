@@ -47,3 +47,10 @@ To use Libreddit with the UntrackMe app, follow these steps:
 2. Open the UntrackMe app and look for **Redirect Reddit to Teddit**.
 3. Add Libreddit as a custom instance by adding the following URL: `http://libreddit.localhost:8080`
 4. Save the settings.
+5. Tap on the "Configure" button located at the bottom left corner. This will open the app settings for UntrackMe.
+6. In the UntrackMe settings, find and tap on the "Open by default" option.
+7. Tap on the "Add link" button to add the Reddit domains to be opened by default with UntrackMe.
+    Add all the Reddit domains used by Libreddit, such as reddit.com, redd.it, etc.
+    Save the settings.
+
+Now, whenever you open any Reddit link UntrackMe will handle the requests and ensure your privacy. 
