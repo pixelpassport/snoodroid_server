@@ -43,7 +43,7 @@ The Libreddit server should now be running and accessible at `localhost:8080`.
 
 **Step 6: Use with UntrackMe App**
 To use Libreddit with the UntrackMe app, follow these steps:
-1. Install the UntrackMe app from the Google Play Store or f-droid.
+1. Install the UntrackMe app from the ~~Google Play Store~~ (not on Google Play) or f-droid.
 2. Open the UntrackMe app and look for **Redirect Reddit to Teddit**.
 3. Add Libreddit as a custom instance by adding the following URL: `http://libreddit.localhost:8080`
 4. Save the settings.
